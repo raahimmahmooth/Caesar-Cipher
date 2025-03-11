@@ -27,3 +27,8 @@ To run this program on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/raahimmahmooth/Caesar-Cipher.git
+
+   ## Getting Help
+
+If you have any questions or need further clarification, feel free to reach out to me via LinkedIn: [Raahim Mahmooth](https://www.linkedin.com/in/raahim-mahmooth/)
+
